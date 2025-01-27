@@ -37,7 +37,7 @@
     "cleanup": "rimraf api-docs/ coverage/ dist/"
   },
   "dependencies": {
-    "@nestjs/common": "^10.0.2",
+    "@nestjs/common": "^11.0.5",
     "@nestjs/config": "^3.0.0",
     "@nestjs/core": "^11.0.5",
     "@nestjs/platform-express": "^10.0.2",
